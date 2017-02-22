@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/niranjani/espresso_0213/EnhancedToDoApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/niranjani/espresso_0213/EnhancedToDoApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.1_c23c5daf449db3a7492920e3c25d4cfc88fe6856/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/niranjani/espresso_0213/EnhancedToDoApp/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/Users/niranjani/espresso_0213/EnhancedToDoApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.1_b15dcbcddbdb1d3c3fcc8c200411bcc5ea171e4e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/niranjani/espresso_0213/EnhancedToDoApp/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/Users/niranjani/espresso_0213/EnhancedToDoApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.1_eaf808a07876fc7b8cf8da7813a13c364d39b62c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/niranjani/espresso_0213/EnhancedToDoApp/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/Users/niranjani/espresso_0213/EnhancedToDoApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.1_ff83256350c71315016950aaa6429a9255dd8719/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/niranjani/espresso_0213/EnhancedToDoApp/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f0e3798181297afd214a304c3a3f089f76260894">
+        <dex dex="/Users/niranjani/espresso_0213/EnhancedToDoApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_c9068c32e7f8e42d314cf7511582d7db3538e7ed/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/niranjani/espresso_0213/EnhancedToDoApp/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/Users/niranjani/espresso_0213/EnhancedToDoApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.1_3b9dbfec82a8ab466afec537150c33a35bce2a41/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/niranjani/espresso_0213/EnhancedToDoApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/Users/niranjani/espresso_0213/EnhancedToDoApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.1_5b1a0fe796744c191cc45f76eb070e2d5f62c12d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/niranjani/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="/Users/niranjani/espresso_0213/EnhancedToDoApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.1_e777c324a48b324b59eef544a61bdf4b66796889/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/niranjani/espresso_0213/EnhancedToDoApp/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/Users/niranjani/espresso_0213/EnhancedToDoApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.1_1fd3466fa3422394e611d3237985aa0d71b7d93d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/niranjani/espresso_0213/EnhancedToDoApp/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/Users/niranjani/espresso_0213/EnhancedToDoApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.1_7e99708646d3edbebef6b2fec1f06ea54066db10/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/niranjani/espresso_0213/EnhancedToDoApp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7af52fed5c23c91f6572c6c25e3348be7a2bc2d4">
+        <dex dex="/Users/niranjani/espresso_0213/EnhancedToDoApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_0a654e31a9643a88fa056b76e70d99b52898cf3a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/niranjani/espresso_0213/EnhancedToDoApp/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/Users/niranjani/espresso_0213/EnhancedToDoApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.1_f2eb0a163a8d2c181d2ac64827ddddf17b9f7ec0/classes.dex" />
+    </item>
+
+</items>
